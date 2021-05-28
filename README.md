@@ -14,7 +14,7 @@ This language pack contains Latvian translations for Flarum (compatible with `1.
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require yourname/flarum-lang-latvian
+composer require edevrob/flarum-lang-latvian
 ```
 
 Then enable extension in admin panel of your Flarum.
@@ -25,7 +25,7 @@ Then enable extension in admin panel of your Flarum.
 You can update language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer update yourname/flarum-lang-latvian
+composer update edevrob/flarum-lang-latvian
 ```
 
 Then clear the cache:
