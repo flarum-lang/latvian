@@ -1,24 +1,22 @@
 {
-	"name": "yourname/flarum-lang-xxish",
+	"name": "edevrob/flarum-lang-latvian",
 	"type": "flarum-extension",
-	"description": "Xxish language pack for Flarum.",
-	"homepage": "https://github.com/yourname/flarum-lang-xxish",
+	"description": "Latvian language pack for Flarum.",
+	"homepage": "https://github.com/edevrob/flarum-lang-latvian",
 	"keywords": [
 		"locale",
 		"flarum",
-		"xx-locale"
+		"lv-locale"
 	],
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Your Name",
-			"email": "your@email.net",
-			"homepage": "https://yourhomepage.com/"
+			"name": "edevrob"
 		}
 	],
 	"support": {
-		"issues": "https://github.com/yourname/flarum-lang-xxish/issues",
-		"source": "https://github.com/yourname/flarum-lang-xxish"
+		"issues": "https://github.com/edevrob/flarum-lang-latvian/issues",
+		"source": "https://github.com/edevrob/flarum-lang-latvian"
 	},
 	"require": {
 		"flarum/core": "^1.0"
@@ -27,7 +25,7 @@
 	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
-			"title": "Xxish",
+			"title": "Latvian",
 			"icon": {
 				"image": "icon.svg",
 				"backgroundSize": "cover",
@@ -35,8 +33,8 @@
 			}
 		},
 		"flarum-locale": {
-			"code": "xx",
-			"title": "Xxish"
+			"code": "lv",
+			"title": "Latvian"
 		},
 		"flagrow": {
 			"discuss": ""
