@@ -1,10 +1,10 @@
 # Latvian language pack for [Flarum](https://flarum.org/)
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/yourname/flarum-lang-xxish?color=success&label=stable)](https://packagist.org/packages/yourname/flarum-lang-xxish) 
-[![Latest Unstable Version](https://img.shields.io/packagist/v/yourname/flarum-lang-xxish?include_prereleases&label=unstable)](https://packagist.org/packages/yourname/flarum-lang-xxish) 
-[![License](https://img.shields.io/packagist/l/yourname/flarum-lang-xxish)](https://packagist.org/packages/yourname/flarum-lang-xxish) 
-[![Total Downloads](https://img.shields.io/packagist/dt/yourname/flarum-lang-xxish)](https://packagist.org/packages/yourname/flarum-lang-xxish/stats) 
-[![Monthly Downloads](https://img.shields.io/packagist/dm/yourname/flarum-lang-xxish)](https://packagist.org/packages/yourname/flarum-lang-xxish/stats) 
+[![Latest Stable Version](https://img.shields.io/packagist/v/edevrob/flarum-lang-latvian?color=success&label=stable)](https://packagist.org/packages/edevrob/flarum-lang-latvian) 
+[![Latest Unstable Version](https://img.shields.io/packagist/v/edevrob/flarum-lang-latvian?include_prereleases&label=unstable)](https://packagist.org/packages/edevrob/flarum-lang-latvian) 
+[![License](https://img.shields.io/packagist/l/edevrob/flarum-lang-latvian)](https://packagist.org/packages/edevrob/flarum-lang-latvian) 
+[![Total Downloads](https://img.shields.io/packagist/dt/edevrob/flarum-lang-latvian)](https://packagist.org/packages/edevrob/flarum-lang-latvian/stats) 
+[![Monthly Downloads](https://img.shields.io/packagist/dm/edevrob/flarum-lang-latvian)](https://packagist.org/packages/edevrob/flarum-lang-latvian/stats) 
 
 This language pack contains Latvian translations for Flarum (compatible with `1.0.0` or newer) and popular extensions. Full list of supported extensions is available below.
 
