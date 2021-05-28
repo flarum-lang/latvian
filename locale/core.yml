@@ -42,3 +42,81 @@ core:
     discussion_controls:
       cannot_reply_button: 'Nevar atbildēt'
       cannot_reply_text: 'Jums nav atļaujas atbildēt uz šo diskusiju.'
+      delete_button: '=> core.ref.delete'
+      delete_confirmation: 'Vai tiešām vēlaties dzēst šo diskusiju?'
+      delete_forever_button: '=> core.ref.delete_forever'
+      log_in_to_reply_button: 'Ielogojies, lai atbildētu'
+      rename_button: '=> core.ref.rename'
+      reply_button: '=> core.ref.reply'
+      restore_button: '=> core.ref.restore'
+    discussion_list:
+      empty_text: 'Izskatās, ka šeit nav diskusiju.'
+      load_more_button: '=> core.ref.load_more'
+      mark_as_read_tooltip: 'Atzīmēt kā izlasītu'
+      replied_text: '{username} atbildēja {ago}'
+      started_text: '{username} izveidoja {ago}'
+    forgot_password:
+      dismiss_button: '=> core.ref.okay'
+      email_placeholder: '=> core.ref.email'
+      email_sent_message: 'Mēs nosūtījām jums e-pastu ar saiti, lai atiestatītu paroli. Pārbaudiet savu surogātpasta mapi, ja nesaņemat to tuvāko divu minūšu laikā.'
+      not_found_message: 'Ar šo e-pasta adresi nav reģistrēts neviens lietotājs.'
+      submit_button: 'Atgūt paroli'
+      text: 'Ievadiet savu e-pasta adresi, un mēs nosūtīsim jums saiti, lai atiestatītu jūsu paroli.'
+      title: 'Aizmirsu paroli'
+    header:
+      admin_button: Administrācija
+      back_to_index_tooltip: 'Atpakaļ uz diskusiju sarakstu'
+      locale_dropdown_accessible_label: 'Mainīt foruma valodu'
+      log_in_link: '=> core.ref.log_in'
+      log_out_button: '=> core.ref.log_out'
+      profile_button: Profils
+      search_placeholder: 'Meklēt forumā'
+      settings_button: '=> core.ref.settings'
+      sign_up_link: '=> core.ref.sign_up'
+    index:
+      all_discussions_link: '=> core.ref.all_discussions'
+      cannot_start_discussion_button: 'Nevar sākt diskusiju'
+      mark_all_as_read_confirmation: 'Vai tiešām vēlaties atzīmēt visas diskusijas kā izlasītas?'
+      mark_all_as_read_tooltip: '=> core.ref.mark_all_as_read'
+      meta_title_text: '=> core.ref.all_discussions'
+      refresh_tooltip: Atjaunot
+      start_discussion_button: '=> core.ref.start_a_discussion'
+    index_sort:
+      latest_button: Pēdējie
+      newest_button: Jaunākie
+      oldest_button: Vecākie
+      relevance_button: Atbilstība
+      toggle_dropdown_accessible_label: 'Mainīt diskusiju saraksta kārtību'
+      top_button: Tops
+    log_in:
+      forgot_password_link: 'Aizmirsi paroli?'
+      invalid_login_message: 'Ielogošanās informācija nav pareiza.'
+      password_placeholder: '=> core.ref.password'
+      remember_me_label: 'Atcerēties mani'
+      sign_up_text: 'Neesi vēl reģistrējies? <a>Reģistrēties</a>'
+      submit_button: '=> core.ref.log_in'
+      title: '=> core.ref.log_in'
+      username_or_email_placeholder: 'Lietotājvārds vai E-pasts'
+    notifications:
+      discussion_renamed_text: '{username} nomainīja nosaukumu'
+      empty_text: 'Nav jaunu ziņojumu'
+      mark_all_as_read_tooltip: '=> core.ref.mark_all_as_read'
+      mark_as_read_tooltip: 'Atzīmēt kā izlasītu'
+      title: '=> core.ref.notifications'
+      toggle_dropdown_accessible_label: 'Apskatīt paziņojumus'
+      tooltip: '=> core.ref.notifications'
+    post:
+      edited_text: Labots
+      edited_tooltip: '{username} laboja {ago}'
+      number_tooltip: 'Ziņa #{number}'
+    post_controls:
+      delete_button: '=> core.ref.delete'
+      delete_confirmation: 'Vai tiešām vēlies neatgriezeniski izdzēst šo ziņu? Šo darbību nevar atsaukt.'
+      delete_forever_button: '=> core.ref.delete_forever'
+      edit_button: '=> core.ref.edit'
+      hide_confirmation: 'Vai tiešām vēlies dzēst šo ziņu?'
+      restore_button: '=> core.ref.restore'
+    post_scrubber:
+      now_link: Šobrīd
+      original_post_link: 'Sākotnējā ziņa'
+      unread_text: '{count} nelasīts'
