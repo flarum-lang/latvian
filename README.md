@@ -48,6 +48,8 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [Likes](https://github.com/flarum/likes) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/flarum-likes/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-likes/lv/) |
+| [Subscriptions](https://github.com/flarum/subscriptions) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/flarum-subscriptions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-subscriptions/lv/) |
 
 <!-- flarum-extensions-list-stop -->
 
