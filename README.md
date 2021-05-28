@@ -59,6 +59,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [FoF Upload](https://github.com/FriendsOfFlarum/upload) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/fof-upload/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-upload/lv/) |
 
 <!-- fof-extensions-list-stop -->
 
