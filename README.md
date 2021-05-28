@@ -14,7 +14,7 @@ This language pack contains Latvian translations for Flarum (compatible with `1.
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require yourname/flarum-lang-latvian
+composer require edevrob/flarum-lang-latvian
 ```
 
 Then enable extension in admin panel of your Flarum.
@@ -25,7 +25,7 @@ Then enable extension in admin panel of your Flarum.
 You can update language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer update yourname/flarum-lang-latvian
+composer update edevrob/flarum-lang-latvian
 ```
 
 Then clear the cache:
@@ -77,6 +77,6 @@ php flarum cache:clear
 
 This language pack is part of [Flarum translations collective](https://github.com/rob006-software/flarum-translations).
 
-Translation for Day.js comes from the [source](https://github.com/iamkun/dayjs/blob/v1.10.4/src/locale/xx.js).
+Translation for Day.js comes from the [source](https://github.com/iamkun/dayjs/blob/v1.10.4/src/locale/lv.js).
 
-Translation for `validation.yml` is based on [Laravel translations](https://github.com/Laravel-Lang/lang/blob/8.1.3/src/xx/validation.php).
+Translation for `validation.yml` is based on [Laravel translations](https://github.com/Laravel-Lang/lang/blob/8.1.3/src/lv/validation.php).
