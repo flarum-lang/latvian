@@ -11,4 +11,4 @@ CHANGELOG
 * Removed outdated Flarum core translations (version `1.3` or higher is supported).
 
 
-All changes: [v0.1.2...v0.2.0](https://github.com/flarum-lang/arabic/compare/v0.1.2...v0.2.0).
+All changes: [v0.1.2...v0.2.0](https://github.com/flarum-lang/latvian/compare/v0.1.2...v0.2.0).
