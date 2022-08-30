@@ -1,11 +1,11 @@
 # Latvian language pack for [Flarum](https://flarum.org/)
 
-[![Latest Stable Version](https://img.shields.io/github/v/release/edevrob/flarum-lang-latvian?color=success&label=stable)](https://packagist.org/packages/edevrob/flarum-lang-latvian) 
-[![License](https://img.shields.io/github/license/edevrob/flarum-lang-latvian)](https://packagist.org/packages/edevrob/flarum-lang-latvian) 
-[![Total Downloads](https://img.shields.io/packagist/dt/edevrob/flarum-lang-latvian)](https://packagist.org/packages/edevrob/flarum-lang-latvian/stats) 
-[![Monthly Downloads](https://img.shields.io/packagist/dm/edevrob/flarum-lang-latvian)](https://packagist.org/packages/edevrob/flarum-lang-latvian/stats) 
+[![Latest Stable Version](https://img.shields.io/github/v/release/flarum-lang/latvian?color=success&label=stable)](https://packagist.org/packages/flarum-lang/latvian) 
+[![License](https://img.shields.io/github/license/flarum-lang/latvian)](https://packagist.org/packages/flarum-lang/latvian) 
+[![Total Downloads](https://img.shields.io/packagist/dt/flarum-lang/latvian)](https://packagist.org/packages/flarum-lang/latvian/stats) 
+[![Monthly Downloads](https://img.shields.io/packagist/dm/flarum-lang/latvian)](https://packagist.org/packages/flarum-lang/latvian/stats) 
 
-This language pack contains Latvian translations for Flarum (compatible with `1.0.0` or newer) and popular extensions. Full list of supported extensions is available below.
+This language pack contains Latvian translations for Flarum (compatible with `1.3.0` or newer) and popular extensions. Full list of supported extensions is available below.
 
 
 ## Installation
@@ -13,7 +13,7 @@ This language pack contains Latvian translations for Flarum (compatible with `1.
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require edevrob/flarum-lang-latvian
+composer require flarum-lang/latvian
 ```
 
 Then enable extension in admin panel of your Flarum.
@@ -24,7 +24,7 @@ Then enable extension in admin panel of your Flarum.
 You can update language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer update edevrob/flarum-lang-latvian
+composer update flarum-lang/latvian
 ```
 
 Then clear the cache:
@@ -38,7 +38,7 @@ php flarum cache:clear
 
 | Component | Status |
 | --- | --- |
-| [Core](https://github.com/flarum/core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/lv/) |
+| [Core](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/lv/) |
 | Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/lv/) |
 
 
