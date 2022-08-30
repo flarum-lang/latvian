@@ -1,8 +1,8 @@
 {
-	"name": "edevrob/flarum-lang-latvian",
+	"name": "flarum-lang/latvian",
 	"type": "flarum-extension",
 	"description": "Latvian language pack for Flarum.",
-	"homepage": "https://github.com/edevrob/flarum-lang-latvian",
+	"homepage": "https://github.com/flarum-lang/latvian",
 	"keywords": [
 		"locale",
 		"flarum",
@@ -15,8 +15,8 @@
 		}
 	],
 	"support": {
-		"issues": "https://github.com/edevrob/flarum-lang-latvian/issues",
-		"source": "https://github.com/edevrob/flarum-lang-latvian"
+		"issues": "https://github.com/flarum-lang/latvian/issues",
+		"source": "https://github.com/flarum-lang/latvian"
 	},
 	"require": {
 		"flarum/core": "^1.0"
