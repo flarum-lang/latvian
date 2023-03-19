@@ -26,6 +26,7 @@
 	"extra": {
 		"flarum-extension": {
 			"title": "Latvian",
+			"category": "language",
 			"icon": {
 				"image": "icon.svg",
 				"backgroundSize": "cover",
