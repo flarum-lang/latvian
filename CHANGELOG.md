@@ -2,6 +2,37 @@ CHANGELOG
 =========
 
 
+0.2.3 (XXXX-XX-XX)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations.
+
+
+**Added support for new extensions**:
+
+* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab)
+* [`acpl/my-tags`](https://github.com/android-com-pl/my-tags)
+* [`afrux/forum-widgets-core`](https://github.com/afrux/forum-widgets-core)
+* [`afrux/top-posters-widget`](https://github.com/afrux/top-posters-widget)
+* [`flarum/akismet`](https://github.com/flarum/akismet)
+* [`flarum/approval`](https://github.com/flarum/approval)
+* [`flarum/bbcode`](https://github.com/flarum/bbcode)
+* [`flarum/emoji`](https://github.com/flarum/emoji)
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+* [`malago/flarum-achievements`](https://github.com/malago86/flarum-achievements)
+
+
+**Updated translations for extensions**:
+
+* [`flarum/likes`](https://github.com/flarum/likes)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
+
+
+All changes: [v0.2.2...v0.2.3](https://github.com/flarum-lang/latvian/compare/v0.2.2...v0.2.3).
+
+
 0.2.2 (2024-01-16)
 ------------------
 
