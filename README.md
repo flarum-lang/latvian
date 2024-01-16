@@ -48,6 +48,11 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`flarum/akismet`](https://github.com/flarum/akismet) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/flarum-akismet/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-akismet/lv/) |
+| [`flarum/approval`](https://github.com/flarum/approval) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/flarum-approval/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-approval/lv/) |
+| [`flarum/bbcode`](https://github.com/flarum/bbcode) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/flarum-bbcode/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-bbcode/lv/) |
+| [`flarum/emoji`](https://github.com/flarum/emoji) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/flarum-emoji/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-emoji/lv/) |
+| [`flarum/extension-manager`](https://github.com/flarum/extension-manager) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/flarum-extension-manager/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-extension-manager/lv/) |
 | [`flarum/likes`](https://github.com/flarum/likes) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/flarum-likes/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-likes/lv/) |
 | [`flarum/subscriptions`](https://github.com/flarum/subscriptions) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/flarum-subscriptions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-subscriptions/lv/) |
 
@@ -72,6 +77,11 @@ php flarum cache:clear
 | Extension | Status |
 | --- | --- |
 | [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/acpl-lscache/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/acpl-lscache/lv/) |
+| [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/acpl-mobile-tab/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/acpl-mobile-tab/lv/) |
+| [`acpl/my-tags`](https://github.com/android-com-pl/my-tags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/acpl-my-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/acpl-my-tags/lv/) |
+| [`afrux/forum-widgets-core`](https://github.com/afrux/forum-widgets-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/afrux-forum-widgets-core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/afrux-forum-widgets-core/lv/) |
+| [`afrux/top-posters-widget`](https://github.com/afrux/top-posters-widget) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/afrux-top-posters-widget/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/afrux-top-posters-widget/lv/) |
+| [`malago/flarum-achievements`](https://github.com/malago86/flarum-achievements) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/malago-achievements/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/malago-achievements/lv/) |
 | [`malago/flarum-ads`](https://github.com/malago86/flarum-ads) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/malago-ads/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/malago-ads/lv/) |
 | [`malago/flarum-ext-fancybox`](https://github.com/malago86/flarum-ext-fancybox) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/malago-fancybox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/malago-fancybox/lv/) |
 | [`matteociaroni/flarum-old-content`](https://github.com/matteociaroni/flarum-old-content) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/matteociaroni-old-content/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/matteociaroni-old-content/lv/) |
