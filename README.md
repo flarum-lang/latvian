@@ -71,6 +71,21 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/acpl-lscache/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/acpl-lscache/lv/) |
+| [`malago/flarum-ads`](https://github.com/malago86/flarum-ads) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/malago-ads/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/malago-ads/lv/) |
+| [`malago/flarum-ext-fancybox`](https://github.com/malago86/flarum-ext-fancybox) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/malago-fancybox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/malago-fancybox/lv/) |
+| [`matteociaroni/flarum-old-content`](https://github.com/matteociaroni/flarum-old-content) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/matteociaroni-old-content/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/matteociaroni-old-content/lv/) |
+| [`matteociaroni/flarum-public-suspensions`](https://github.com/matteociaroni/flarum-public-suspensions) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/matteociaroni-public-suspensions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/matteociaroni-public-suspensions/lv/) |
+| [`matteocontrini/flarum-imgur-upload`](https://github.com/matteocontrini/flarum-imgur-upload) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/matteocontrini-imgur-upload/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/matteocontrini-imgur-upload/lv/) |
+| [`michaelbelgium/flarum-discussion-views`](https://github.com/MichaelBelgium/flarum-discussion-views) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/michaelbelgium-discussion-views/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/michaelbelgium-discussion-views/lv/) |
+| [`michaelbelgium/flarum-profile-views`](https://github.com/MichaelBelgium/flarum-profile-views) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/michaelbelgium-profile-views/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/michaelbelgium-profile-views/lv/) |
+| [`michaelbelgium/mybb-to-flarum`](https://github.com/MichaelBelgium/mybb_to_flarum) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/michaelbelgium-mybb-to-flarum/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/michaelbelgium-mybb-to-flarum/lv/) |
+| [`migratetoflarum/canonical`](https://github.com/migratetoflarum/canonical) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/migratetoflarum-canonical/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/migratetoflarum-canonical/lv/) |
+| [`migratetoflarum/fake-data`](https://github.com/migratetoflarum/fake-data) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/migratetoflarum-fake-data/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/migratetoflarum-fake-data/lv/) |
+| [`miniflar/admin-notepad-widget`](https://github.com/miniflar/admin-notepad-widget) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/miniflar-admin-notepad-widget/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/miniflar-admin-notepad-widget/lv/) |
+| [`miniflar/sidenav-download-button`](https://github.com/miniflar/sidenav-download-button) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/miniflar-sidenav-download-button/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/miniflar-sidenav-download-button/lv/) |
+| [`miniflar/top-like-givers-widget`](https://github.com/miniflar/top-like-givers-widget) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/miniflar-top-like-givers-widget/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/miniflar-top-like-givers-widget/lv/) |
+| [`nearata/flarum-ext-auth-minecraft`](https://github.com/Nearata/flarum-ext-auth-minecraft) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/nearata-auth-minecraft/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/nearata-auth-minecraft/lv/) |
 
 <!-- various-extensions-list-stop -->
 
