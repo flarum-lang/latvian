@@ -5,6 +5,7 @@
 flarum-subscriptions:
   email:
     new_post:
+      body: "Sveiki, {recipient_display_name}!\n\n{poster_display_name} publicēja ziņu diskusijā, kurai sekojat: {title}.\n\nLai skatītu jauno darbību, skatiet šo saiti:\n{url}\n\n---\n\n{content}\n\n---\n\nJūs vairs nesaņemsit paziņojumus par šo diskusiju, kamēr nebūsit jaunākais.\n"
       subject: '[Jauna ziņa] {title}'
   forum:
     badge:
@@ -22,6 +23,7 @@ flarum-subscriptions:
       new_post_text: '{username} ievietoja ziņu'
     settings:
       follow_after_reply_label: 'Automātiski sekot diskusijām kurās esmu ievietojis atbildi'
+      notify_for_all_posts_label: 'Paziņojiet par katru jaunu ziņu, nevis tikai par pēdējo diskusijā'
       notify_new_post_label: 'Kāds ierakstīja ziņu diskusijā kurai tu seko'
     sub_controls:
       follow_button: '=> flarum-subscriptions.ref.follow'

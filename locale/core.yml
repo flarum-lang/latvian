@@ -254,6 +254,10 @@ core:
       title: '=> core.ref.users'
       total_users: 'Kopējais lietotāju skaits: {count}'
   api:
+    invalid_filter_type:
+      must_be_numeric_message: 'Filtram {filter} ir jābūt cipariem.'
+      must_not_be_array_message: 'Filtrs {filter} nedrīkst būt masīvs.'
+      must_not_be_multidimensional_array_message: 'Filtrs {filter} nedrīkst būt daudzdimensiju masīvs.'
     invalid_username_message: 'Lietotājvārds drīkst saturēt tikai burtus, ciparus un domuzīmes.'
   email:
     activate_account:
@@ -266,6 +270,7 @@ core:
       body: "Sveiks {username}!\n\nKāds (cerams, ka tu!) ir pieteicis aizmirstu paroli šeit {forum}.\n\nJa tas bijis tu, vienkārši klikšķini uz saites, lai atjaunotu paroli\n{url}\n\nJa nevēlies mainīt paroli, vienkārši ignorē šo e-pastu.\n"
       subject: '=> core.ref.reset_your_password'
     send_test:
+      body: "Sveiki, {username}!\n\nŠis ir testa e-pasts, lai apstiprinātu, ka jūsu Flarum e-pasta konfigurācija darbojas pareizi.\n\nJa tas bijāt jūs, šis e-pasts nozīmē, ka jūsu konfigurācija darbojas!\n\nJa tas nebijāt jūs, lūdzu, ignorējiet šo e-pasta ziņojumu.\n"
       subject: 'Flarum E-pasta tests'
   forum:
     change_email:
@@ -427,12 +432,26 @@ core:
         title: '=> core.ref.new_token'
         title_placeholder: Nosaukums
       revoke_access_token: Atsaukt
+      revoke_access_token_confirmation: '=> core.ref.generic_confirmation_message'
+      session_terminated: '{count, plural, one {Session terminated} other {# Sessions terminated}}.'
+      session_termination_failed: 'Pārtraucot jūsu sesijas, radās kļūda.'
+      sessions_heading: 'Aktīvās sesijas'
+      show_access_token: 'Skatīt Token'
+      terminate_all_other_sessions: 'Pārtrauciet visas pārējās sesijas'
+      terminate_all_other_sessions_confirmation: '=> core.ref.generic_confirmation_message'
+      terminate_session: Pārtraukt
+      title: '=> core.ref.security'
+      token_item_title: '{title} - {token}'
+      token_revoked: 'Tokens atsaukts.'
+      token_title_placeholder: /
     settings:
       account_heading: Profils
       change_email_button: '=> core.ref.change_email'
       change_password_button: '=> core.ref.change_password'
+      notification_checkbox_a11y_label_template: 'Saņemiet paziņojumus par "{description}", izmantojot {method}'
       notifications_heading: '=> core.ref.notifications'
       notify_by_email_heading: '=> core.ref.email'
+      notify_by_web_heading: Web
       notify_discussion_renamed_label: 'Kāds pārdēvē manis iesākto diskusiju'
       privacy_disclose_online_label: 'Atļaut citiem redzēt, kad esmu tiešsaistē'
       privacy_heading: Privātums
@@ -457,17 +476,22 @@ core:
       posts_empty_text: 'Izskatās, ka šeit nav neviena ziņojuma.'
       posts_link: '=> core.ref.posts'
       posts_load_more_button: '=> core.ref.load_more'
+      security_link: '=> core.ref.security'
       settings_link: '=> core.ref.settings'
     user_controls:
+      button: 'Vadības ierīces'
       delete_button: '=> core.ref.delete'
       delete_confirmation: 'Vai tiešām vēlaties dzēst šo lietotāju? Lietotāja ziņas NETIKS dzēstas.'
       delete_error_message: 'Lietotāja <i>{username} ({email})</i> dzēšana neizdevās'
       delete_success_message: 'Lietotājs <i>{username} ({email})</i> izdzēsts'
       edit_button: '=> core.ref.edit'
+      toggle_dropdown_accessible_label: 'Pārslēgt lietotāja vadīklu nolaižamo izvēlni'
     user_email_confirmation:
       alert_message: '=> core.ref.confirmation_email_sent'
       resend_button: 'Vēlreiz nosūtīt apstiprinājuma e-pastu'
       sent_message: Nosūtīts
+    welcome_hero:
+      hide: 'Slēpt sveiciena ziņojumu'
   group:
     admin: Administrators
     admins: Administratori
@@ -478,13 +502,21 @@ core:
     mod: Moderators
     mods: Moderatori
   lib:
+    alert:
+      dismiss_a11y_label: 'Noraidīt brīdinājumu'
     badge:
       hidden_tooltip: Noslēpts
+    data_segment:
+      label: '{label}:'
+    debug_button: Atkļūdošana
+    dropdown:
+      toggle_dropdown_accessible_label: 'Pārslēgt nolaižamo izvēlni'
     edit_user:
       activate_button: 'Aktivizēt lietotāju'
       email_heading: '=> core.ref.email'
       email_label: '=> core.ref.email'
       groups_heading: Grupas
+      nothing_available: 'Jums nav atļauts rediģēt šo lietotāju.'
       password_heading: '=> core.ref.password'
       password_label: '=> core.ref.password'
       set_password_label: 'Uzstādīt jaunu paroli'
@@ -493,14 +525,26 @@ core:
       username_heading: '=> core.ref.username'
       username_label: '=> core.ref.username'
     error:
+      circular_dependencies_message: 'Konstatētas cirkulāras atkarības: {extensions}. Pārtraukšana. Lūdzu, atspējojiet vienu no paplašinājumiem un mēģiniet vēlreiz.'
       dependent_extensions_message: 'Nevar atspējot {extension} kamēr sekojošie paplašinājumi ir deaktivizēti: {extensions}'
+      extension_initialiation_failed_message: '{extension} neizdevās inicializēt. Plašāku informāciju skatiet pārlūkprogrammas konsolē.'
+      generic_cross_origin_message: 'Hmm! Vairākas izcelsmes pieprasījuma laikā radās problēma. Lūdzu, atkārtoti ielādējiet lapu un mēģiniet vēlreiz.'
       generic_message: 'Ups! Kaut kas nogāja greizi. Lūdzu, atkārtoti ielādējiet lapu un mēģiniet vēlreiz.'
       missing_dependencies_message: 'Nevar iespējot {extension}, kamēr nav iespējoti šie paplašinājumi: {extensions}'
       not_found_message: 'Pieprasītais resurss netika atrasts.'
+      payload_too_large_message: 'Pieprasījuma slodze bija pārāk liela.'
       permission_denied_message: 'Jums nav atļaujas to darīt.'
       rate_limit_exceeded_message: 'Tu esi mazliet par ātri. Pēc dažām sekundēm mēģini vēlreiz.'
+      render_failed_message: 'Diemžēl, parādot šo saturu, radās kļūda. Ja esat lietotājs, lūdzu, vēlāk mēģiniet vēlreiz. Ja esat administrators, skatiet savus Flarum žurnālfailus, lai iegūtu plašāku informāciju.'
     loading_indicator:
       accessible_label: '=> core.ref.loading'
+    meta_titles:
+      with_page_title: '{pageNumber, plural, =1 {{pageTitle} - {forumName}} other {{pageTitle}: Page # - {forumName}}}'
+      without_page_title: '{pageNumber, plural, =1 {{forumName}} other {Lapa # - {forumName}}}'
+    modal:
+      close: Aizvērt
+    nav:
+      drawer_button: 'Atveriet navigācijas atvilktni'
     number_suffix:
       kilo_text: K
       mega_text: M
@@ -515,13 +559,30 @@ core:
     change_email: 'Mainīt e-pastu'
     change_password: 'Mainīt paroli'
     color: Krāsa
+    confirm_email: 'Apstiprini epastu'
     confirm_password: 'Apstiprini paroli'
     confirmation_email_sent: 'Mēs esam nosūtījuši apstiprinājuma e-pastu uz {email}. Ja tas drīz nepienāk, pārbaudiet savu surogātpasta mapi.'
+    custom_footer_text: 'Pievienojiet HTML, kas tiks parādīts lapas pašā apakšā.'
+    custom_footer_title: 'Rediģēt pielāgoto kājeni'
+    custom_header_text: 'Pievienojiet HTML, lai tas tiktu parādīts pašā lapas augšdaļā virs paša Flarum galvenes.'
+    custom_header_title: 'Rediģēt pielāgoto galveni'
+    delete: Dzēst
+    delete_forever: 'Dzēst uz visiem laikiem'
+    discussions: Diskusijas
+    edit: Rediģēt
+    edit_user: 'Rediģēt lietotāju'
+    email: E-pasts
+    extensions: Paplašinājumi
+    generic_confirmation_message: 'Vai tiešām vēlaties turpināt? Šo darbību nevar atsaukt.'
+    icon: Ikona
+    icon_text: 'Ievadiet jebkuras <a>FontAwesome</a> ikonu klases nosaukumu, <em>ieskaitot</em> prefiksu <code>fas fa-</code>.'
     load_more: 'Ielādēt vairāk'
     loading: Ielādē...
     log_in: Ielogoties
     log_out: Izlogoties
     mark_all_as_read: 'Atzīmēt kā izlasītu'
+    never: Nekad
+    new_token: 'Jauns Tokens'
     next_page: 'Nākamā lapa'
     notifications: Paziņojumi
     okay: OK
@@ -534,6 +595,8 @@ core:
     reset_your_password: 'Atjaunināt paroli'
     restore: Atjaunot
     save_changes: 'Saglabāt izmaiņas'
+    search_users: 'Meklēt lietotājus'
+    security: Drošība
     settings: Iestatījumi
     sign_up: Reģistrēties
     some_others: '{count, plural, one {# other} citi {# others}}'
@@ -544,6 +607,22 @@ core:
     write_a_reply: 'Rakstīt atbildi...'
     you: Tu
   views:
+    admin:
+      extensions:
+        caption: '=> core.ref.extensions'
+        disable: Atspējot
+        empty: 'Nav instalētu paplašinājumu'
+        enable: Iespējot
+        name: 'Paplašinājuma nosaukums'
+        package_name: 'Pakas nosaukums'
+        version: Versija
+      info:
+        caption: 'Informācija par pieteikumu'
+      title: Administrācija
+    confirm_email:
+      submit_button: '=> core.ref.confirm_email'
+      text: 'Noklikšķiniet uz tālāk esošās pogas, lai apstiprinātu sava konta e-pastu.'
+      title: '=> core.ref.confirm_email'
     content:
       javascript_disabled_message: 'Šo vietni vislabāk var apskatīt modernā pārlūkprogrammā, kurā ir iespējots JavaScript.'
       load_error_message: 'Mēģinot ielādēt šīs vietnes pilno versiju, radās kļūda. Lai novērstu kļūdu, mēģiniet atsvaidzināt šo lapu.'
