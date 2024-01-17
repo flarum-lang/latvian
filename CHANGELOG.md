@@ -16,13 +16,17 @@ CHANGELOG
 * [`acpl/my-tags`](https://github.com/android-com-pl/my-tags)
 * [`afrux/forum-widgets-core`](https://github.com/afrux/forum-widgets-core)
 * [`afrux/top-posters-widget`](https://github.com/afrux/top-posters-widget)
+* [`annonny/flarum-dice`](https://github.com/mizhiyugan529/flarum-dice)
+* [`antoinefr/flarum-ext-online`](https://github.com/AntoineFr/flarum-ext-online)
 * [`flarum/akismet`](https://github.com/flarum/akismet)
 * [`flarum/approval`](https://github.com/flarum/approval)
 * [`flarum/bbcode`](https://github.com/flarum/bbcode)
 * [`flarum/emoji`](https://github.com/flarum/emoji)
 * [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+* [`flarum/flags`](https://github.com/flarum/flags)
 * [`flarum/lock`](https://github.com/flarum/lock)
 * [`flarum/statistics`](https://github.com/flarum/statistics)
+* [`fof/analytics`](https://github.com/FriendsOfFlarum/analytics)
 * [`malago/flarum-achievements`](https://github.com/malago86/flarum-achievements)
 
 
