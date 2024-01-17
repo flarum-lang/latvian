@@ -21,6 +21,8 @@ CHANGELOG
 * [`flarum/bbcode`](https://github.com/flarum/bbcode)
 * [`flarum/emoji`](https://github.com/flarum/emoji)
 * [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+* [`flarum/lock`](https://github.com/flarum/lock)
+* [`flarum/statistics`](https://github.com/flarum/statistics)
 * [`malago/flarum-achievements`](https://github.com/malago86/flarum-achievements)
 
 
