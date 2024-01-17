@@ -14,3 +14,37 @@ flarum-extension-manager:
         type_label: Tips
         unchanged_token_placeholder: (nemainīts)
       delete_confirmation: 'Vai tiešām vēlaties dzēst šo autentifikācijas metodi?'
+      delete_label: 'Dzēst autentifikācijas metodi'
+      edit_label: 'Rediģēt autentifikācijas metodi'
+      fields:
+        host: Uzņēmēja
+        token: Tokens
+      no_auth_methods_configured: 'Nav konfigurēta neviena autentifikācijas metode. Šī ir papildu papildu funkcija, kas ļauj instalēt no privātām krātuvēm.'
+      remove_button_label: 'Noņemiet autentifikācijas metodi'
+      title: 'Autentifikācijas metodes'
+      types:
+        bearer: 'HTTP nesējs'
+        github-oauth: 'GitHub OAuth'
+        gitlab-oauth: 'GitLab OAuth'
+        gitlab-token: 'GitLab Token'
+    composer:
+      add_repository_label: 'Pievienot repozitoriju'
+      delete_repository_confirmation: 'Vai tiešām vēlaties dzēst šo krātuvi? Visi no šī krātuves instalētie paplašinājumi tiks noņemti.'
+      delete_repository_label: 'Dzēst repozitoriju'
+      edit_repository_label: 'Rediģēt repozitoriju'
+      minimum_stability:
+        help: 'Instalējamo pakotņu veids. Nemainiet to, ja vien nezināt, ko darāt.'
+        label: 'Minimālā stabilitāte'
+        options:
+          alpha: Alfa
+          beta: Beta
+          dev: Izstrādātājs
+          rc: 'Atbrīvošanas kandidāts'
+          stable: 'Stabils (ieteicams)'
+      repositories:
+        help: "Pievienojiet papildu krātuves, no kurām instalēt pakotnes. Šī ir uzlabota funkcija. Nepievienojiet neuzticamas krātuves, jo tās var izmantot, lai jūsu serverī izpildītu ļaunprātīgu kodu.\n"
+        label: Krātuves
+        types:
+          composer: composer
+          vcs: vcs
+      title: Composer
