@@ -27,6 +27,7 @@ CHANGELOG
 * [`flarum/lock`](https://github.com/flarum/lock)
 * [`flarum/statistics`](https://github.com/flarum/statistics)
 * [`fof/analytics`](https://github.com/FriendsOfFlarum/analytics)
+* [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget)
 * [`malago/flarum-achievements`](https://github.com/malago86/flarum-achievements)
 
 
