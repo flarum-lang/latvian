@@ -8,6 +8,7 @@ CHANGELOG
 **General changes**:
 
 * Updated Flarum core translations.
+* Updated validation translations.
 
 
 **Added support for new extensions**:
@@ -16,10 +17,17 @@ CHANGELOG
 * [`acpl/my-tags`](https://github.com/android-com-pl/my-tags)
 * [`afrux/forum-stats-widget`](https://github.com/afrux/forum-stats-widget)
 * [`afrux/forum-widgets-core`](https://github.com/afrux/forum-widgets-core)
+* [`afrux/news-widget`](https://github.com/afrux/news-widget)
+* [`afrux/online-users-widget`](https://github.com/afrux/online-users-widget)
 * [`afrux/top-posters-widget`](https://github.com/afrux/top-posters-widget)
+* [`akr/chevereto`](https://github.com/AKR-Developers/flarum-chevereto)
 * [`annonny/flarum-dice`](https://github.com/mizhiyugan529/flarum-dice)
 * [`antoinefr/flarum-ext-online`](https://github.com/AntoineFr/flarum-ext-online)
 * [`archlinux-de/flarum-click-image`](https://github.com/archlinux-de/flarum-click-image)
+* [`askvortsov/flarum-checklist`](https://github.com/askvortsov1/flarum-checklist)
+* [`askvortsov/flarum-help-tags`](https://github.com/askvortsov1/flarum-help-tags)
+* [`blomstra/mark-unread`](https://github.com/blomstra/flarum-ext-mark-unread)
+* [`clarkwinkelmann/flarum-ext-likes-received`](https://github.com/clarkwinkelmann/flarum-ext-likes-received)
 * [`flarum/akismet`](https://github.com/flarum/akismet)
 * [`flarum/approval`](https://github.com/flarum/approval)
 * [`flarum/bbcode`](https://github.com/flarum/bbcode)
@@ -28,12 +36,16 @@ CHANGELOG
 * [`flarum/flags`](https://github.com/flarum/flags)
 * [`flarum/lock`](https://github.com/flarum/lock)
 * [`flarum/markdown`](https://github.com/flarum/markdown)
+* [`flarum/mentions`](https://github.com/flarum/mentions)
 * [`flarum/nicknames`](https://github.com/flarum/nicknames)
 * [`flarum/pusher`](https://github.com/flarum/pusher)
 * [`flarum/statistics`](https://github.com/flarum/statistics)
 * [`flarum/sticky`](https://github.com/flarum/sticky)
 * [`fof/analytics`](https://github.com/FriendsOfFlarum/analytics)
+* [`fof/custom-footer`](https://github.com/FriendsOfFlarum/custom-footer)
+* [`fof/default-group`](https://github.com/FriendsOfFlarum/default-group)
 * [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget)
+* [`justoverclock/best-answer-badge`](https://github.com/justoverclockl/best-answer-badge)
 * [`malago/flarum-achievements`](https://github.com/malago86/flarum-achievements)
 
 
@@ -42,6 +54,7 @@ CHANGELOG
 * [`flarum/likes`](https://github.com/flarum/likes)
 * [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
 * [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
+* [`nearata/flarum-ext-auth-minecraft`](https://github.com/Nearata/flarum-ext-auth-minecraft)
 
 
 All changes: [v0.2.2...v0.2.3](https://github.com/flarum-lang/latvian/compare/v0.2.2...v0.2.3).
