@@ -5,5 +5,19 @@
 nearata-auth-minecraft:
   admin:
     settings:
+      api_secret:
+        help: 'To var atrast šeit: <strong>Plugins/OAuth/config.json</strong>'
+        label: 'API noslēpums'
+      api_url:
+        help: 'Piemērs: http://localhost:4567/verify'
+        label: 'API URL'
       minecraft_server:
+        help: 'Piemērs: mydomain.tld'
         label: 'Minecraft servera ip adresse'
+  forum:
+    log_in_button_title: 'Piesakieties ar Minecraft'
+    log_in_modal:
+      submit_button: Apstiprināt
+      title: 'Piesakieties ar Minecraft'
+    login_error: 'Sesija nav sākta vai ir beidzies.'
+    modal_help: 'Pievienojieties serverim <strong>{server}</strong>, pēc tam noklikšķiniet uz tālāk esošās pogas.'
