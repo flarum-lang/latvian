@@ -14,10 +14,12 @@ CHANGELOG
 
 * [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab)
 * [`acpl/my-tags`](https://github.com/android-com-pl/my-tags)
+* [`afrux/forum-stats-widget`](https://github.com/afrux/forum-stats-widget)
 * [`afrux/forum-widgets-core`](https://github.com/afrux/forum-widgets-core)
 * [`afrux/top-posters-widget`](https://github.com/afrux/top-posters-widget)
 * [`annonny/flarum-dice`](https://github.com/mizhiyugan529/flarum-dice)
 * [`antoinefr/flarum-ext-online`](https://github.com/AntoineFr/flarum-ext-online)
+* [`archlinux-de/flarum-click-image`](https://github.com/archlinux-de/flarum-click-image)
 * [`flarum/akismet`](https://github.com/flarum/akismet)
 * [`flarum/approval`](https://github.com/flarum/approval)
 * [`flarum/bbcode`](https://github.com/flarum/bbcode)
@@ -25,7 +27,11 @@ CHANGELOG
 * [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
 * [`flarum/flags`](https://github.com/flarum/flags)
 * [`flarum/lock`](https://github.com/flarum/lock)
+* [`flarum/markdown`](https://github.com/flarum/markdown)
+* [`flarum/nicknames`](https://github.com/flarum/nicknames)
+* [`flarum/pusher`](https://github.com/flarum/pusher)
 * [`flarum/statistics`](https://github.com/flarum/statistics)
+* [`flarum/sticky`](https://github.com/flarum/sticky)
 * [`fof/analytics`](https://github.com/FriendsOfFlarum/analytics)
 * [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget)
 * [`malago/flarum-achievements`](https://github.com/malago86/flarum-achievements)
@@ -35,6 +41,7 @@ CHANGELOG
 
 * [`flarum/likes`](https://github.com/flarum/likes)
 * [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
 
 
 All changes: [v0.2.2...v0.2.3](https://github.com/flarum-lang/latvian/compare/v0.2.2...v0.2.3).
