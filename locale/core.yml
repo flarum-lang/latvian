@@ -237,6 +237,8 @@ core:
             title: Grupas
           join_time:
             title: Pievienojās
+          user_actions:
+            title: Darbības
           user_id:
             title: ID
           username:
@@ -508,6 +510,10 @@ core:
       hidden_tooltip: Noslēpts
     data_segment:
       label: '{label}:'
+    datetime_formats:
+      humanTimeLong: ll
+      humanTimeShort: 'D MMM'
+      scrubber: 'MMMM YYYY'
     debug_button: Atkļūdošana
     dropdown:
       toggle_dropdown_accessible_label: 'Pārslēgt nolaižamo izvēlni'
