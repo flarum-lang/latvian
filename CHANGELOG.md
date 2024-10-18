@@ -23,6 +23,7 @@ CHANGELOG
 * [`afrux/top-posters-widget`](https://github.com/afrux/top-posters-widget)
 * [`akr/chevereto`](https://github.com/AKR-Developers/flarum-chevereto)
 * [`annonny/flarum-dice`](https://github.com/mizhiyugan529/flarum-dice)
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
 * [`antoinefr/flarum-ext-online`](https://github.com/AntoineFr/flarum-ext-online)
 * [`archlinux-de/flarum-click-image`](https://github.com/archlinux-de/flarum-click-image)
 * [`askvortsov/flarum-checklist`](https://github.com/askvortsov1/flarum-checklist)
