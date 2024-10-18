@@ -30,6 +30,7 @@ CHANGELOG
 * [`askvortsov/flarum-help-tags`](https://github.com/askvortsov1/flarum-help-tags)
 * [`blomstra/mark-unread`](https://github.com/blomstra/flarum-ext-mark-unread)
 * [`clarkwinkelmann/flarum-ext-likes-received`](https://github.com/clarkwinkelmann/flarum-ext-likes-received)
+* [`datlechin/flarum-chatgpt`](https://github.com/datlechin/flarum-chatgpt)
 * [`datlechin/flarum-copy-links`](https://github.com/datlechin/flarum-copy-links)
 * [`flarum/akismet`](https://github.com/flarum/akismet)
 * [`flarum/approval`](https://github.com/flarum/approval)
