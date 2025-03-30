@@ -45,6 +45,7 @@ CHANGELOG
 * [`flarum/pusher`](https://github.com/flarum/pusher)
 * [`flarum/statistics`](https://github.com/flarum/statistics)
 * [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`flarum/tags`](https://github.com/flarum/tags)
 * [`fof/analytics`](https://github.com/FriendsOfFlarum/analytics)
 * [`fof/custom-footer`](https://github.com/FriendsOfFlarum/custom-footer)
 * [`fof/default-group`](https://github.com/FriendsOfFlarum/default-group)
