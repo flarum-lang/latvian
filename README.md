@@ -124,7 +124,6 @@ php flarum cache:clear
 | [`miniflar/admin-notepad-widget`](https://github.com/miniflar/admin-notepad-widget) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/miniflar-admin-notepad-widget/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/miniflar-admin-notepad-widget/lv/) |
 | [`miniflar/sidenav-download-button`](https://github.com/miniflar/sidenav-download-button) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/miniflar-sidenav-download-button/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/miniflar-sidenav-download-button/lv/) |
 | [`miniflar/top-like-givers-widget`](https://github.com/miniflar/top-like-givers-widget) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/miniflar-top-like-givers-widget/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/miniflar-top-like-givers-widget/lv/) |
-| [`nearata/flarum-ext-auth-minecraft`](https://github.com/Nearata/flarum-ext-auth-minecraft) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lv/nearata-auth-minecraft/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/nearata-auth-minecraft/lv/) |
 
 <!-- various-extensions-list-stop -->
 
