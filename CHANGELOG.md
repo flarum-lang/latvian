@@ -2,7 +2,7 @@ CHANGELOG
 =========
 
 
-1.2.3 (XXXX-XX-XX)
+1.0.0 (XXXX-XX-XX)
 ------------------
 
 **General changes**:
@@ -62,7 +62,7 @@ CHANGELOG
 * [`nearata/flarum-ext-auth-minecraft`](https://github.com/Nearata/flarum-ext-auth-minecraft)
 
 
-All changes: [v0.2.2...v1.2.3](https://github.com/flarum-lang/latvian/compare/v0.2.2...v1.2.3).
+All changes: [v0.2.2...v1.0.0](https://github.com/flarum-lang/latvian/compare/v0.2.2...v1.0.0).
 
 
 0.2.2 (2024-01-16)
