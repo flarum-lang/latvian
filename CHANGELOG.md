@@ -41,6 +41,7 @@ CHANGELOG
 * [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
 * [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
 * [`michaelbelgium/mybb-to-flarum`](https://github.com/MichaelBelgium/mybb_to_flarum)
+* [`michaelbelgium/flarum-profile-views`](https://github.com/MichaelBelgium/flarum-profile-views)
 * [`migratetoflarum/fake-data`](https://github.com/migratetoflarum/fake-data)
 
 
@@ -52,7 +53,6 @@ CHANGELOG
 * [`matteociaroni/flarum-public-suspensions`](https://github.com/matteociaroni/flarum-public-suspensions)
 * [`matteocontrini/flarum-imgur-upload`](https://github.com/matteocontrini/flarum-imgur-upload)
 * [`michaelbelgium/flarum-discussion-views`](https://github.com/MichaelBelgium/flarum-discussion-views)
-* [`michaelbelgium/flarum-profile-views`](https://github.com/MichaelBelgium/flarum-profile-views)
 * [`migratetoflarum/canonical`](https://github.com/migratetoflarum/canonical)
 * [`miniflar/admin-notepad-widget`](https://github.com/miniflar/admin-notepad-widget)
 * [`miniflar/sidenav-download-button`](https://github.com/miniflar/sidenav-download-button)
