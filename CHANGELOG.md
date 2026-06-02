@@ -14,6 +14,7 @@ CHANGELOG
 **Added support for new extensions**:
 
 * [`acpl/my-tags`](https://github.com/android-com-pl/my-tags)
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
 * [`datlechin/flarum-copy-links`](https://github.com/datlechin/flarum-copy-links)
 * [`flarum/akismet`](https://github.com/flarum/akismet)
 * [`flarum/approval`](https://github.com/flarum/approval)
