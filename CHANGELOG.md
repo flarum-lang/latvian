@@ -7,8 +7,8 @@ CHANGELOG
 
 **General changes**:
 
-* Removed outdated Flarum core translations (version `2.0` or higher is supported).
-* Removed outdated validation translations (version `2.0` or higher is supported).
+* Updated Flarum core translations (70 added, 4 changed, 26 removed).
+* Updated validation translations (28 added).
 
 
 **Added support for new extensions**:
@@ -35,16 +35,11 @@ CHANGELOG
 * [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget)
 
 
-**Updated and/or removed outdated translations for extensions**:
+**Updated translations for extensions**:
 
-* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache)
-* [`flarum/likes`](https://github.com/flarum/likes)
-* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
-* [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
-* [`michaelbelgium/flarum-discussion-views`](https://github.com/MichaelBelgium/flarum-discussion-views)
-* [`michaelbelgium/mybb-to-flarum`](https://github.com/MichaelBelgium/mybb_to_flarum)
-* [`michaelbelgium/flarum-profile-views`](https://github.com/MichaelBelgium/flarum-profile-views)
-* [`migratetoflarum/fake-data`](https://github.com/migratetoflarum/fake-data)
+* [`flarum/likes`](https://github.com/flarum/likes) (6 added)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (1 added)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload) (140 added, 13 removed)
 
 
 **Removed support for outdated extensions**:
@@ -61,7 +56,7 @@ CHANGELOG
 * [`nearata/flarum-ext-auth-minecraft`](https://github.com/Nearata/flarum-ext-auth-minecraft)
 
 
-All changes: [v0.2.2...v2.0.0](https://github.com/flarum-lang/latvian/compare/v0.2.2...v2.0.0).
+All changes: [v0.2.2...2.0.0](https://github.com/flarum-lang/latvian/compare/v0.2.2...2.0.0).
 
 
 0.2.2 (2024-01-16)
