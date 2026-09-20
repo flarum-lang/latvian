@@ -7,8 +7,8 @@ CHANGELOG
 
 **General changes**:
 
-* Updated Flarum core translations.
-* Updated validation translations.
+* Updated Flarum core translations (71 added, 4 changed).
+* Updated validation translations (103 added).
 
 
 **Added support for new extensions**:
@@ -56,13 +56,13 @@ CHANGELOG
 
 **Updated translations for extensions**:
 
-* [`flarum/likes`](https://github.com/flarum/likes)
-* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
-* [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
-* [`nearata/flarum-ext-auth-minecraft`](https://github.com/Nearata/flarum-ext-auth-minecraft)
+* [`flarum/likes`](https://github.com/flarum/likes) (6 added)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (2 added)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload) (145 added)
+* [`nearata/flarum-ext-auth-minecraft`](https://github.com/Nearata/flarum-ext-auth-minecraft) (10 added)
 
 
-All changes: [v0.2.2...v1.0.0](https://github.com/flarum-lang/latvian/compare/v0.2.2...v1.0.0).
+All changes: [v0.2.2...1.0.0](https://github.com/flarum-lang/latvian/compare/v0.2.2...1.0.0).
 
 
 0.2.2 (2024-01-16)
