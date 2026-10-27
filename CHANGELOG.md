@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+2.0.1 (2026-10-27)
+------------------
+
+**Added support for new extensions**:
+
+* [`clarkwinkelmann/flarum-ext-likes-received`](https://github.com/clarkwinkelmann/flarum-ext-likes-received) (100% complete)
+
+
+All changes: [2.0.0...2.0.1](https://github.com/flarum-lang/latvian/compare/2.0.0...2.0.1).
+
+
 2.0.0 (2026-09-30)
 ------------------
 
