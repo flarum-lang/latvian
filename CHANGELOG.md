@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+2.0.2 (2026-11-23)
+------------------
+
+**General changes**:
+
+* Updated Day.js translations.
+
+
+All changes: [2.0.1...2.0.2](https://github.com/flarum-lang/latvian/compare/2.0.1...2.0.2).
+
+
 2.0.1 (2026-10-27)
 ------------------
 
