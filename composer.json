@@ -1,28 +1,20 @@
 {
 	"name": "flarum-lang/latvian",
+	"description": "Latvian Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Latvian language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/latvian",
 	"keywords": [
-		"locale",
-		"flarum",
-		"lv-locale"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/latvian",
 	"license": "MIT",
-	"authors": [
-		{
-			"name": "edevrob"
-		}
-	],
 	"support": {
 		"issues": "https://github.com/flarum-lang/latvian/issues",
+		"forum": "https://discuss.flarum.org/d/40199",
 		"source": "https://github.com/flarum-lang/latvian"
 	},
 	"require": {
 		"flarum/core": "^2.0"
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
 			"title": "Latvian",
@@ -35,13 +27,7 @@
 		},
 		"flarum-locale": {
 			"code": "lv",
-			"title": "Latvian"
-		},
-		"flagrow": {
-			"discuss": ""
-		},
-		"branch-alias": {
-			"dev-master": "1.x-dev"
+			"title": "Latviešu"
 		}
 	}
 }
